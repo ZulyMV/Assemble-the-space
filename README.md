@@ -16,9 +16,10 @@ Zuly Esthefany Mejia Vasquez
 
 Built with
 Below is a list of the tools that were implemented for the creation of the application.
-Unity 3D - Video Game Platform
 GitHub - version control web service
+Ionic - full open source SDK
+Visual - Studio Code source code editor developed by Microsoft for Windows, Linux and macOS
 
 License 
-Copyright (c) Microsoft Corporation. All rights reserved.
-Licensed under the MIT license.
+MIT License
+Copyright (c) 
