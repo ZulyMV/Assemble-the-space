@@ -14,7 +14,6 @@ const Home: React.FC = () => {
         </IonToolbar>
       </IonHeader>
       <IonContent className="start-game">
-        <img src="/AssembleSpace/src/theme/images/eso1238a.jpg"/>
         
       </IonContent>
     </IonPage>
@@ -22,3 +21,5 @@ const Home: React.FC = () => {
 };
 
 export default Home;
+
+

@@ -1,4 +1,4 @@
-.start-game img {
-    max-height: 200vh;
-    overflow: hidden;
-  }
+:root {
+    --ion-background-color: #002981d8;
+    --ion-text-color: #ffffff;
+}
