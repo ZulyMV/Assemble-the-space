@@ -5,3 +5,6 @@
 .start-game{
     --ion-background-color: #5f0005d8;
 }
+.menu{
+    --ion-text-color: #2e0000;
+}
