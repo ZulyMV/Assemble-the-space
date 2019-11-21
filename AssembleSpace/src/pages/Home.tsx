@@ -1,4 +1,4 @@
-import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar, IonButtons, IonMenuButton } from '@ionic/react';
+import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar, IonButtons, IonMenuButton, IonIcon, IonButton } from '@ionic/react';
 import React from 'react';
 import './Home.css';
 
@@ -7,9 +7,9 @@ const Home: React.FC = () => {
     <IonPage>
       <IonHeader>
         <IonToolbar>
-        <IonButtons slot="start">
-            <IonMenuButton />
-          </IonButtons>
+        <IonButton slot="start" href="../Componets/menu" color="transparent">
+          <IonIcon name="menu"/>
+          </IonButton>
           <IonTitle>Assemble the space</IonTitle>
         </IonToolbar>
       </IonHeader>
@@ -21,5 +21,7 @@ const Home: React.FC = () => {
 };
 
 export default Home;
+
+
 
 
