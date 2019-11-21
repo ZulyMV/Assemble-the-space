@@ -8,7 +8,7 @@ const Home: React.FC = () => {
       <IonHeader>
         <IonToolbar>
         <IonButton slot="start" href="../Componets/menu" color="transparent">
-          <IonIcon name="menu"/>
+          <IonIcon name="menu" color="#2e0000"/>
           </IonButton>
           <IonTitle>Assemble the space</IonTitle>
         </IonToolbar>
