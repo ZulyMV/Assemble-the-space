@@ -22,7 +22,7 @@ const Menu: React.FunctionComponent<MenuProps> = ({ appPages }) => (
   <IonMenu contentId="main" type="overlay">
     <IonHeader>
       <IonToolbar>
-        <IonTitle>Menu</IonTitle>
+        <IonTitle>Categories</IonTitle>
       </IonToolbar>
     </IonHeader>
     <IonContent>
@@ -31,7 +31,7 @@ const Menu: React.FunctionComponent<MenuProps> = ({ appPages }) => (
           return (
             <IonMenuToggle key={index} autoHide={false}>
               <IonItem routerLink={appPage.url} routerDirection="none">
-                <IonIcon slot="start" icon={appPage.icon} />
+                <IonIcon slot="start" icon={appPage.icon} color="primary"/>
                 <IonLabel>{appPage.title}</IonLabel>
               </IonItem>
             </IonMenuToggle>

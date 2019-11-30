@@ -1,6 +1,8 @@
 :root{
-  --ion-background-color: #ffffff;  
+  --ion-background-color: #000000;  
+  --ion-text-color: #ffffff;
 }
 .start-game{
-  --ion-background-color: #5f0005d8;
+  --ion-background-color: #fff7f7d8;
+
 }

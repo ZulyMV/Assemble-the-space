@@ -7,7 +7,6 @@ import {
   IonTitle,
   IonToolbar
   } from '@ionic/react';
-import { book, build, colorFill, grid } from 'ionicons/icons';
 import React from 'react';
 import './Home.css';
 
@@ -23,6 +22,7 @@ const HomePage: React.FC = () => {
         </IonToolbar>
       </IonHeader>
       <IonContent className="start-game">
+        <img src="../images/eso1238a.png" alt=""/>
       </IonContent>
     </IonPage>
   );
