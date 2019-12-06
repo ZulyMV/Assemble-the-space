@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+h2{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+div{
+    
+    display: grid;
+    grid-template-columns: repeat(3,50%);
+    width: 50%;
+    margin: 0% 15%;
+    
+}
+.select{
+    border: 2px black solid;
+    outline-offset: -3px;
+}
+img{
+    width: 100%;
+    box-sizing: content-box;
+}
+body{
+    width: 90%;
+    background-color: blue;
+}
