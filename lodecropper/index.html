@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+ 
+<html>
+    <head>
+       
+      <!--
+
+
+      -->  
+      <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: ws: 'unsafe-inline' https://ssl.gstatic.com  'unsafe-eval';        
+      script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;">        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
+        <script type="text/javascript" src="js/index.js"></script>
+        <script type="text/javascript" src="cordova.js"></script>
+        <link rel="stylesheet" type="text/css" href="css/puzzle.css">          
+        <style>
+            img{ border: 1px red solid; }
+            .select{ border: 10px black solid;outline-offset: -3px;}
+            html {
+            height: 100%;
+            }
+        body {
+            min-height: 100%;
+        }  
+          </style>
+        <title>Imagen </title>
+
+    </head>
+
+ <body>
+ 
+     <div id="nivel">
+        <div  class="container-fluid text-center">
+            <h1 style="color: beige;"> ASSAMBLE THE SPACE</h1>
+        </div>
+    
+        <div class="container text-center">
+      <div class="row ">
+        <div class="col">
+            <button   class=" nivel btn btn-primary" nivel=3> EASY</button>
+         </div>
+      </div>
+      <div class="row ">
+        <div class="col">
+            <br>
+         </div>
+      </div>
+      <div class="row ">
+        <div class="col">
+            <button  class="nivel  btn btn-primary" nivel=4> MEDIUM</button>
+         </div>
+      </div>
+      <div class="row ">
+        <div class="col">
+            <br>
+         </div>
+      </div>
+      <div class="row ">
+        <div class="col">
+            <button  class="nivel btn btn-primary" nivel=5> HARD</button>
+         </div>
+      </div>
+    </div>
+
+</div>
+    
+<div id="agrupar_imagenes" style="display: none">
+    <div id="imagenes" class="container-fluid text-center">
+        <h1 style="color: beige;" > Elija la imagen</h1>
+    </div>
+
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col">
+                <input type="image" src="image/rompecabezas/imagen1.jpg"  style="height: 200px;" class="  imagen form-control  input-lg  " tsrc=imagen1> </input>
+             </div>
+             <div class="col">
+                <input type="image" src="image/rompecabezas/imagen2.jpg"  style="height: 200px;" class=" imagen form-control input-lg " tsrc=imagen2> </input>
+             </div>
+        </div> 
+        <div class="row ">
+            <div class="col">
+                <br>
+             </div>
+        </div> 
+        <div class="row ">
+            <div class="col">
+                <input type="image" src="image/rompecabezas/imagen3.jpg"  style="height: 200px;" class="  imagen form-control  input-lg  " tsrc=imagen3> </input>
+                <br>
+             </div>
+             <div class="col">
+                <input type="image" src="image/rompecabezas/imagen4.jpg"  style="height: 200px;" class="  imagen form-control  input-lg  " tsrc=imagen4> </input>
+                <br>
+             </div>
+        </div> 
+        <div class="row ">
+            <div class="col">
+                <br>
+             </div>
+          </div>
+        <div class="row ">
+            <div class="col">
+                <input type="image" src="image/rompecabezas/imagen5.jpg"  style="height: 200px;" class="  imagen form-control  input-lg  " tsrc=imagen5> </input>
+             </div>
+             <div class="col">
+                <input type="image" src="image/rompecabezas/imagen6.jpg"  style="height: 200px;" class="  imagen form-control  input-lg  " tsrc=imagen6> </input>
+            </div>
+        </div> 
+        <div class="row ">
+            <div class="col">
+                <br>
+             </div>
+          </div>
+        <div class="row ">
+            <div class="col">
+                <input type="image" src="image/rompecabezas/imagen7.jpg"  style="height: 200px;" class="  imagen form-control  input-lg  " tsrc=imagen7> </input>
+
+             </div>
+             <div class="col">
+                <input type="image" src="image/rompecabezas/imagen8.jpg"  style="height: 200px;" class="  imagen form-control  input-lg  " tsrc=imagen8> </input>
+                <br>
+             </div>
+        </div> 
+        <div class="row ">
+            <div class="col">
+                <br>
+             </div>
+          </div>
+        <div class="row ">
+            <div class="col">
+                <input type="image" src="image/rompecabezas/imagen9.jpg"  style="height: 200px;" class="  imagen form-control  input-lg  " tsrc=imagen9> </input>
+                <br>
+             </div>
+             <div class="col">
+                <input type="image" src="image/rompecabezas/imagen10.jpg"  style="height: 200px;" class="  imagen form-control  input-lg  " tsrc=imagen10> </input>
+                <br>
+             </div>
+        </div> 
+        <div class="row ">
+            <div class="col">
+                <br>
+             </div>
+          </div>
+        <div class="row ">
+            <div class="col">
+                <input type="image" src="image/rompecabezas/imagen11.jpg"  style="height: 200px;" class="  imagen form-control  input-lg  " tsrc=imagen11> </input>
+                <br>
+             </div>
+             <div class="col">
+                <input type="image" src="image/rompecabezas/imagen12.jpg"  style="height: 200px;" class="  imagen form-control  input-lg  " tsrc=imagen12> </input>
+                <br>
+             </div>
+        </div> 
+        <div class="row ">
+            <div class="col">
+                <br>
+             </div>
+          </div>
+    </div>
+</div>
+
+  </div>
+
+  <div id="juego" class="container-fluid  text-center" style="display: none" >
+
+    <div class="row justify-content-center">
+        <div class="col">
+            <button class="silencio btn btn-danger" onclick="location.reload()" > volver</button>
+        </div>
+        <div class="col" >
+            <img id="id"  style="height: 0px;width: 0px;" >
+        </div>
+        <div class="col">
+            <h1 style="color: beige;">Rompecabezas</h1>
+        </div>
+        <div class="col">
+            <div id="imagen_prueba">
+     
+            </div>
+        </div>
+        <div class="col">
+            <h2 id='ganar'>&nbsp;</h2>
+        </div>
+    </div>
+  
+    <div class="row justify-content-center">
+        <div class="col">
+            <div id="cronomecro" class="  btn btn-warning text-center ">00:00:00</div>
+        </div>
+     
+    <div class="col">
+        <div id="movimientos" class=" text-center  btn btn-primary ">Movimientos:0</div>
+    </div>
+ </div>
+ <div id='rompecabezas' class="container "></div>
+
+</div>
+<div id="finalizado" class="container-fluid  text-center" style="display: none" >
+  
+    <div class="row  ">
+<div class="col-12">
+    <textarea  style="height: 400px;"  id="fin">
+
+    </textarea>
+</div>
+        <div class="col-4">
+            <button class=" btn btn-primary" onclick="location.reload()" > volver</button>
+        </div>
+        <div class="col-4">
+            <button  class=" btn btn-primary" id="reiniciar"  > reiniciar</button>
+        </div>
+        <div class="col-4">
+            <button class=" btn btn-primary" id="info"  > información</button>
+
+        </div>
+
+    </div>
+</div>
+<div id="informativo" class="container-fluid   text-center"  style="display: none ; " >
+  
+    <div class="row  ">
+        <div class="col-12">
+            <label  style="color:azure; height: 700px;" id="textoinformativo">
+
+            </label>
+        </div>
+        <div class="col">
+            <button class= " btn btn-primary" onclick="location.reload()" > volver</button>
+        </div>
+        
+    </div>
+</div>
+ 
+ </body>
+	
+ 
+ 
+</html>
