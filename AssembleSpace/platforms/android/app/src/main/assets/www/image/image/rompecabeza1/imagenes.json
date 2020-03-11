@@ -1,0 +1,51 @@
+{
+
+    "imagen1.jpg":{
+    "Nombre":"Petra",
+    "Descripcion":"Es un importante enclave arqueológico en Jordania, y la capital del antiguo reino nabateo, cuyos pobladores la llamaban Raqmu. se localiza en un valle angosto, al este del valle de la Aravá que se extiende desde el mar Muerto hasta el Golfo de Aqaba."
+    },
+    "imagen2.jpg":{
+    "Nombre":"Machu_Picchu",
+    "Descripcion":"Construida antes del siglo XV, ubicada en la Cordillera Oriental del sur de Perú, en la cadena montañosa de Los Andes a 2430 metros sobre el nivel del mar. Machu Picchu habría sido una de las residencias de descanso de Pachacútec, noveno inca del Tahuantinsuyo entre 1438 y 1470, es considerada, al mismo tiempo, una obra maestra de la arquitectura y la ingeniería"
+    },
+    "imagen3.jpg":{
+    "Nombre":"Taj_Mahal",
+    "Descripcion":"Corona de los palacios´ es un monumento funerario construido entre 1631 y 1654 en la ciudad de Agra, estado de Uttar Pradesh (India), a orillas del río Yamuna, por el emperador musulmán Shah Jahan de la dinastía mogol. El Taj Mahal es considerado el más bello ejemplo de palacio, estilo que combina elementos de las arquitecturas islámica, persa,​ india e incluso turca"
+    },
+    "imagen4.jpg":{
+    "Nombre":"Angkor_Wat",
+    "Descripcion":"Es el templo hinduista más grande y también el mejor conservado de los que integran el asentamiento de Angkor. Está considerado como la mayor estructura religiosa jamás construida,1​ y uno de los tesoros arqueológicos más importantes del mundo. Ubicado 5,5 km al norte de la actual Siem Riep, en la provincia homónima de Camboya, Angkor Wat forma parte del complejo de templos construidos en la zona de Angkor, la antigua capital del Imperio jemer."
+    },
+    "imagen5.jpg":{
+    "Nombre":"Hagia_Sophia",
+    "Descripcion":"Es una antigua basílica patriarcal ortodoxa, posteriormente convertida en mezquita y actualmente en museo, en la ciudad de Estambul, Turquía. El templo estaba dedicado a la Divina Sabiduría, una imagen tomada del Libro de la Sabiduría del Antiguo Testamento y que hace referencia a la personificación de la sabiduría de Dios o segunda persona de la Santísima Trinidad."
+    },
+    "imagen6.jpg":{
+    "Nombre":"Burj_Khalifa",
+    "Descripcion":"Es un rascacielos ubicado en Dubái (Emiratos Árabes Unidos). Con 828 metros de altura, es la estructura más alta de la que se tiene registro en la historia. La base del edificio cuenta con un núcleo y tres secciones laterales que sobresalen de este. Estas alas o secciones laterales ascienden cada una a distinta altura y hacen que la estructura del edificio vaya siendo más estrecha."
+    },
+    "imagen7.jpg":{
+    "Nombre":"Museo_del_Hermitage",
+    "Descripcion":"San Petersburgo, Rusia, es una de las mayores pinacotecas y museos de antigüedades del mundo. La colección del museo ocupa un complejo formado por seis edificios situados a la orilla del río Neva, siendo el más importante de estos el Palacio de Invierno, residencia oficial de los antiguos zares. Su pinacoteca está considerada una de las más completas del mundo. El museo es uno de los museos más grandes del mundo"
+    },
+    "imagen8.jpg":{
+    "Nombre":"Parque_nacional_de_Yellowstone",
+    "Descripcion":"Es un parque nacional ubicado en los Estados Unidos, principalmente en el estado de Wyoming, aunque se extiende por Montana e Idaho. Yellowstone, el primer parque nacional de los Estados Unidos, también se considera ampliamente el parque nacional más antiguo del mundo, se extiende en un área de 8 983 km².7​ Comprende lagos, cañones, ríos y cadenas montañosas."
+    },
+    "imagen9.jpg":{
+    "Nombre":"Cataratas_del_Niágara",
+    "Descripcion":"Son un grupo de cascadas situadas en el río Niágara, en la zona noreste de América del Norte, en Canadá. Situadas a unos 236 metros sobre el nivel del mar, su caída es de aproximadamente 64 metros. Comprenden tres cataratas: la «catarata canadiense» (Ontario), la «catarata estadounidense» (Nueva York) y la «catarata Velo de Novia», más pequeña. Aunque no tienen una gran altura, son muy amplias y son las más voluminosas de América del Norte, ya que por ellas pasa toda el agua de los Grandes Lagos."
+      },
+    "imagen10.jpg":{
+    "Nombre":"Bora_Bora_(atolón)",
+    "Descripcion":"Es una de las islas de Sotavento, de las islas de la Sociedad, en la Polinesia Francesa. Se trata de una isla del tipo atolón, con una zona central montañosa que está rodeada por una barrera de arrecife coralina y de islotes. Bora-Bora se forma por un volcán apagado, rodeado por una laguna y una franja de arrecife. Su cumbre es el monte Otemanu (727 m) situado al centro del atolón; otra cumbre, el monte Pahia, sobre la isla principal, alcanza 661 metros de altitud."
+    },
+    "imagen11.jpg":{
+    "Nombre":"Museo_del_Louvre",
+    "Descripcion":"Es el museo nacional de Francia consagrado al arte anterior al impresionismo, tanto bellas artes como arqueología y artes decorativas. Es uno de los más importantes del mundo. Está ubicado en París (Francia), en el antiguo palacio real del Louvre, y actualmente promueve dos subsedes, en Lens (Francia) y en Abu Dabi (Emiratos Árabes Unidos)."
+    },
+    "imagen12.jpg":{
+    "Nombre":"Parque_nacional_natural_Tayrona",
+    "Descripcion":"Se encuentra ubicado en las estribaciones de la Sierra Nevada de Santa Marta en Colombia. Su superficie hace parte del departamento del Magdalena.  Es uno de los parques naturales más importantes de Colombia. Es hábitat de una gran cantidad de especies que se distribuyen en regiones con diferentes pisos térmicos que van desde el nivel del mar hasta alturas de 900 m."
+    }
+}

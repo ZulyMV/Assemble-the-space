@@ -1,0 +1,6 @@
+npm i 
+
+cordova  platform add android
+cordova  pluguin add  cordova-plugin-wkwebview-ionic-xhr
+
+

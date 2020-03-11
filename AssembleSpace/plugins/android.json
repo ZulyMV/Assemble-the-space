@@ -1,0 +1,37 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-camera": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "com.das2408.gulplinux"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.das2408.gulplinux"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.das2408.gulplinux"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.das2408.gulplinux"
+    },
+    "cordova-plugin-wkwebview-ionic-xhr": {
+      "ANDROID_SUPPORT_ANNOTATIONS_VERSION": "27.+",
+      "PACKAGE_NAME": "com.das2408.gulplinux"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.das2408.gulplinux"
+    },
+    "cordova-plugin-ionic-webview": {
+      "ANDROID_SUPPORT_ANNOTATIONS_VERSION": "27.+",
+      "PACKAGE_NAME": "com.das2408.gulplinux"
+    }
+  }
+}

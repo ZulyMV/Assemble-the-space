@@ -1,0 +1,66 @@
+{
+     "imagen1.jpg":{
+    "Nombre":"Alma_Vision",
+    "Descripcion":"A vision of the near-future ALMA antenna array. Computer-generated models of antennas were superimposed on a real photograph and adjusted for perspective and lighting.",
+    "URL":"https://www.eso.org/public/images/esopia00080illus/"
+        },
+    "imagen2.jpg":{
+        "Nombre":"The_Southern_Milky_Way_Above_Alma",
+        "Descripcion":"ESO Photo Ambassador Babak Tafreshi snapped this remarkable image of the antennas of the Atacama Large Millimeter/submillimeter Array (ALMA), set against the splendour of the Milky Way. The richness of the sky in this picture attests to the unsurpassed conditions for astronomy on the 5000-metre-high Chajnantor plateau in Chile’s Atacama region",
+        "URL":"https://www.eso.org/public/images/potw1222a/"
+        },
+    "imagen3.jpg":{
+        "Nombre":"Whirling_Southern_Star_Trails_Over_Alma",
+        "Descripcion":"Babak Tafreshi, one of the ESO Photo Ambassadors, has captured the antennas of the Atacama Large Millimeter/submillimeter Array (ALMA) under the southern sky in another breathtaking image.",
+        "URL":"https://www.eso.org/public/images/potw1253a/"
+        },
+    "imagen4.jpg":{
+        "Nombre":"A_Galatic_Embrace",
+        "Descripcion":"Two galaxies, about 50 million light-years away, are locked in a galactic embrace — literally. The Seyfert galaxy NGC 1097, in the constellation of Fornax (The Furnace), is seen in this image taken with the VIMOS instrument on ESO’s Very Large Telescope (VLT). A comparatively tiny elliptical companion galaxy, NGC 1097A, is also visible in the top left. There is evidence that NGC 1097 and NGC 1097A have been interacting in the recent past.",
+        "URL":"https://www.eso.org/public/images/potw1128a/"
+        },
+    "imagen5.jpg":{
+        "Nombre":"Antennae_Galaxies_Composite_Of_Alma_And_Hubble_Observations",
+        "Descripcion":"The Antennae Galaxies (also known as NGC 4038 and 4039) are a pair of distorted colliding spiral galaxies about 70 million light-years away, in the constellation of Corvus (The Crow). This view combines ALMA observations, made in two different wavelength ranges during the observatory’s early testing phase, with visible-light observations from the NASA/ESA Hubble Space Telescope",
+        "URL":"https://www.eso.org/public/images/eso1137a/"
+        },    
+    "imagen6.jpg":{
+        "Nombre":"Ribbons_And_Pearls",
+        "Descripcion":"This week’s picture shows spectacular ribbons of gas and dust wrapping around the pearly centre of the barred spiral galaxy NGC 1398. This galaxy is located in the constellation of Fornax (The Furnace), approximately 65 million light-years away.",
+        "URL":"https://www.eso.org/public/images/potw1801a/"
+        },
+    "imagen7.jpg":{
+        "Nombre":"Alma_And_Muse_Detect_Galatic_Fountain",
+        "Descripcion":"Composite image of the Abell 2597 galaxy cluster showing the fountain-like flow of gas powered by the supermassive black hole in the central galaxy. The yellow is ALMA data showing cold gas. The red is data from the MUSE instrument on ESO’s Very Large Telescope showing the hot hydrogen gas in the same region. The blue-purple is the extended hot, ionized gas as imaged by the Chandra X-ray Observatory.",
+        "URL":"https://www.eso.org/public/images/eso1836a/"
+        },
+    "imagen8.jpg":{
+        "Nombre":"Alma_Hole_In_The_Universe",
+        "Descripcion":"The events surrounding the Big Bang were so cataclysmic that they left an indelible imprint on the fabric of the cosmos. We can detect these scars today by observing the oldest light in the Universe. As it was created nearly 14 billion years ago, this light — which exists now as weak microwave radiation and is thus named the cosmic microwave background (CMB) — has now expanded to permeate the entire cosmos, filling it with detectable photons.",
+        "URL":"https://www.eso.org/public/images/potw1708a/"
+        },
+    "imagen9.jpg":{
+        "Nombre":"Artist_Impression_Of_Ancient_Galaxy_Megamerger",
+        "Descripcion":"This artist's impression of SPT2349-56 shows a group of interacting and merging galaxies in the early Universe. Such mergers have been spotted using the ALMA and APEX telescopes and represent the formation of galaxies clusters, the most massive objects in the modern Universe. Astronomers thought that these events occurred around three billion years after the Big Bang, so they were surprised when the new observations revealed them happening when the Universe was only half that age!",
+        "URL":"https://www.eso.org/public/images/eso1812a/"
+        },
+    "imagen10.jpg":{
+        "Nombre":"ESO_Very_Large_Telescope_Images_The_Medusa_Nebula",
+        "Descripcion":"ESO’s Very Large Telescope in Chile has captured the most detailed image ever taken of the Medusa Nebula (also known Abell 21 and Sharpless 2-274). As the star at the heart of this nebula made its final transition into retirement, it shed its outer layers into space, forming this colourful cloud. The image foreshadows the final fate of the Sun, which will eventually also become an object of this kind.",
+        "URL":"https://www.eso.org/public/images/eso1520a/"
+        },
+
+    "imagen11.jpg":{
+        "Nombre":"NGC_2467_And_Surroundings",
+        "Descripcion":"Area surrounding the stellar cluster NGC 2467, located in the southern constellation of Puppis ('The Stern'). With an age of a few million years at most, it is a very active stellar nursery, where new stars are born continuously from large clouds of dust and gas.",
+        "URL":"https://www.eso.org/public/images/eso0544a/"
+        },
+    "imagen12.jpg":{
+        "Nombre":"The_Horsehead_Nebula",
+        "Descripcion":"A reproduction of a composite colour image of the Horsehead Nebula and its immediate surroundings. It is based on three exposures in the visual part of the spectrum with the FORS2 multi-mode instrument at the 8.2-m KUEYEN telescope at Paranal",
+        "URL":"https://www.eso.org/public/images/eso0202a/"
+        }
+
+
+
+}

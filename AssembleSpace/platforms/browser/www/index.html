@@ -1,0 +1,184 @@
+<!doctype html>
+ 
+<html>
+    <head>
+       
+      <!--
+
+
+      -->  
+      <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: ws: 'unsafe-inline' https://ssl.gstatic.com  'unsafe-eval';        
+      script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;">        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="viewport" content="initial-scale=1,width=device-width,viewport-fit=cover">
+        <script src="js/index.js"></script>
+        <script src="cordova.js"></script>
+        <link rel="stylesheet" type="text/css" href="css/puzzle.css">          
+        <style>
+            img{ border: 1px red solid; }
+            .select{ border: 10px black solid;outline-offset: -3px;}
+          </style>
+        <title>Imagen </title>
+
+    <link href="css/index.css" rel="stylesheet"></head>
+
+ <body>
+ 
+     <div id="nivel">
+        <div class="container-fluid text-center">
+            <h1> ASSAMBLE THE SPACE</h1>
+        </div>
+    
+        <div class="container text-center">
+      <div class="row">
+        <div class="col">
+            <button class="nivel btn btn-primary" nivel="3"> Facil</button>
+         </div>
+      </div>
+      <div class="row">
+        <div class="col">
+            <br><br><br>
+         </div>
+      </div>
+      <div class="row">
+        <div class="col">
+            <button class="nivel btn btn-primary" nivel="4"> Medio</button>
+         </div>
+      </div>
+      <div class="row">
+        <div class="col">
+            <br><br><br>
+         </div>
+      </div>
+      <div class="row">
+        <div class="col">
+            <button class="nivel btn btn-primary" nivel="5"> Dificil</button>
+         </div>
+      </div>
+    </div>
+
+</div>
+    
+<div id="agrupar_imagenes" style="display: none">
+    <div id="imagenes" class="container-fluid text-center">
+        <h1> Elija la imagen</h1>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <button class="imagen btn btn-primary" src="imagen1"> imagen 1</button>
+             </div>
+             <div class="col">
+                <button class="imagen btn btn-primary" src="imagen2"> imagen 2</button>
+             </div>
+        </div>  
+        <div class="row">
+            <div class="col">
+                <button class="imagen btn btn-primary" src="imagen3"> imagen 3</button>
+             </div>
+             <div class="col">
+                <button class="imagen btn btn-primary" src="imagen4"> imagen 4</button>
+             </div>
+        </div> 
+        <div class="row">
+            <div class="col">
+                <button class="imagen btn btn-primary" src="imagen5"> imagen 5</button>
+             </div>
+             <div class="col">
+                <button class="imagen btn btn-primary" src="imagen6"> imagen 6</button>
+             </div>
+        </div> 
+        <div class="row">
+            <div class="col">
+                <button class="imagen btn btn-primary" src="imagen7"> imagen 7</button>
+             </div>
+             <div class="col">
+                <button class="imagen btn btn-primary" src="imagen8"> imagen 8</button>
+             </div>
+        </div> 
+        <div class="row">
+            <div class="col">
+                <button class="imagen btn btn-primary" src="imagen9"> imagen 9</button>
+             </div>
+             <div class="col">
+                <button class="imagen btn btn-primary" src="imagen10"> imagen 10</button>  
+             </div>
+        </div> 
+        <div class="row">
+            <div class="col">
+                <button class="imagen btn btn-primary" src="imagen11"> imagen 11</button>
+             </div>
+             <div class="col">
+                <button class="imagen btn btn-primary" src="imagen12">imagen 12</button>  
+             </div>
+        </div> 
+    </div>
+</div>
+
+  
+
+  <div id="juego" class="container text-center" style="display: none">
+
+    <div class="row justify-content-center">
+        <div class="col">
+            <button class="silencio" onclick="location.reload()"> volver</button>
+        </div>
+        <div class="col">
+            <img id="id" style="height: 0px;width: 0px;">
+        </div>
+        <div class="col">
+            <h1>Rompecabezas</h1>
+        </div>
+        <div class="col">
+            <h2 id="ganar">&nbsp;</h2>
+        </div>
+    </div>
+  
+    <div class="row justify-content-center">
+        <div class="col">
+            <div id="cronomecro" class="text-center">00:00:00</div>
+        </div>
+     
+    <div class="col">
+        <div id="movimientos" class="text-center">Movimientos:0</div>
+    </div>
+ </div>
+ <div id="rompecabezas" class="container"></div>
+
+</div>
+<div id="finalizado" class="container-fluid text-center" style="display: none">
+    <textarea style="height: 200px; max-height: max-content;" id="textofinal">
+
+    </textarea>
+    <div class="row justify-content-center">
+        <div class="col">
+            <button onclick="location.reload()"> volver</button>
+        </div>
+        <div class="col">
+            <button id="reiniciar"> reiniciar</button>
+        </div>
+        <div class="col">
+            <button id="info"> informacion</button>
+
+        </div>
+
+    </div>
+</div>
+<div id="informativo" class="container-fluid text-center" style="display: none;">
+    <textarea style="height: 200px;" id="textoinformativo">
+
+    </textarea>
+    <div class="row justify-content-center">
+        <div class="col">
+            <button onclick="location.reload()"> volver</button>
+        </div>
+        
+    </div>
+</div>
+ 
+ <script src="js/index.js"></script></body>
+	
+ 
+ 
+</html>
